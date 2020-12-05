@@ -1,0 +1,32 @@
+body{
+    padding: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #2C974B;
+}
+.title {
+    margin: 200px;
+    font-size: 30px;
+    color : White;
+    padding-bottom: 50px;
+    
+}
+
+/* .clock .title{
+      width: 1000px;
+} */
+
+
+
+#time{
+    padding-top: 150px;
+    font-size: 250px;
+    color: white;
+}
+
+#month{
+    
+    font-size:50px;
+    color: white;
+}
+
